@@ -1,0 +1,41 @@
+# Directory
+**/migrations/
+.idea/
+.cache/
+media/
+
+# File extension
+*.DS_Store
+*.orig
+*.bak
+*.tmp
+*.swp
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.gz
+*.tgz
+*.tar.gz
+*.tbz2
+*.bz2
+*.tar
+*.exe
+*.msi
+*.dmg
+*.pid
+*.log
+*.ipynb
+
+# Sencha
+static/apps/build/temp/
+
+# Hidden files
+.env*
+.eslintrc
+.venv
+.prettierrc
+.prettierignore
+
+# Etc
+test

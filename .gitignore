@@ -30,12 +30,14 @@ media/
 # Sencha
 static/apps/build/temp/
 
+
 # Hidden files
 .env*
 .eslintrc
 .venv
 .prettierrc
 .prettierignore
+.static_root
 
 # Etc
 test
